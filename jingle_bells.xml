@@ -1,7 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
+    <work>
+        <work-title>Jingle bells</work-title>
+        <identification>
+            <creator type="composer">James Lord Pierpont</creator>
+            <encoding>
+                <software>MuseScore 4.0.2</software>
+                <encoding-date>2023-04-21</encoding-date>
+                <supports element="accidental" type="yes"/>
+                <supports element="beam" type="yes"/>
+                <supports element="print" attribute="new-page" type="no"/>
+                <supports element="print" attribute="new-system" type="no"/>
+                <supports element="stem" type="yes"/>
+            </encoding>
+        </identification>
+    </work>
     <part-list>
+        <part-group type="start" number="1">
+            <group-symbol>brace</group-symbol>
+        </part-group>
         <score-part id="P1">
             <part-name>Part 1</part-name>
         </score-part>
